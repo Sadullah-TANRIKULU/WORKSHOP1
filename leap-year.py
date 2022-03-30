@@ -1,3 +1,4 @@
+new-feature-F1486
  new-feature-F1486
  new-feature-F1486
 def CheckLeap(Year):  
@@ -16,6 +17,14 @@ CheckLeap(Year)
 
 F1486-Nurettin
 
+brian
+# This command line is added by 1429-Brian
+
+f1362
+ f1362
+F1362 GALİP HASAN DUĞAN
+master
+
 
 F1494
 F1494-Vildan
@@ -26,8 +35,16 @@ f1545
 
 F1477-Matrix
 master
+new-feature-F1486
  new-feature-F1486
  master
-=======
+
+
+f1362
+ master
+
+master
+master
+master
 master
  master
